@@ -2,8 +2,8 @@
 // *** DO NOT modify this file
 // ***
 
-#ifndef HW05_H
-#define HW05_H
+#ifndef HW03_H
+#define HW03_H
 #include <stdio.h>
 #include <stdbool.h>
 bool addFile(char * filename, int * sum);
