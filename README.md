@@ -31,3 +31,6 @@ int sum)` that writes the sum as an integer which name is
 `filename`. Further instructions are in the comments in the function
 in file `fileint.c`
 
+Submission Instructions
+===================
+Upload fileint.c to gradescope
